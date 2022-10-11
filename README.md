@@ -15,8 +15,6 @@ Each day a movie is picked from a curated list and you have a quote to guess whi
 
 Fell free to send me suggestions using [Github issues](https://github.com/ulyis/quoted/issues)
 
-If you have a project you want to submit, we will need 6 pictures, a project name, architect name and location.
-
 ---
 
 ## Running it yourself
